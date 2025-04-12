@@ -14,3 +14,4 @@ Security: Password hashing, SQL injection protection, session management
 
 Tools: phpMyAdmin, VS Code, Git
 
+FURTHER DETAILS CONTACT 
