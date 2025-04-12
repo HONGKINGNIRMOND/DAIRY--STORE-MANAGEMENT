@@ -14,4 +14,45 @@ Security: Password hashing, SQL injection protection, session management
 
 Tools: phpMyAdmin, VS Code, Git
 
-FURTHER DETAILS CONTACT 
+"""FURTHER DETAILS CONTACT"" 
+🛠️ How to Run the Project
+📦 Prerequisites
+XAMPP (Apache + MySQL + PHP)
+
+Web browser (Chrome/Firefox)
+
+Code editor (e.g., Visual Studio Code)
+
+🧰 Steps to Set Up Locally
+Download or Clone the Repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/fresh-dairy-ecommerce.git
+Move the Project to XAMPP's htdocs Folder
+
+makefile
+Copy
+Edit
+C:xampp/htdocs/fresh-dairy-ecommerce
+Start Apache and MySQL via XAMPP Control Panel
+
+Set Up the Database
+
+Open phpMyAdmin
+
+Create a new database (e.g., dairy_ecommerce)
+
+Import the provided .sql file (if available) to set up tables and sample data
+
+Configure Database Connection
+
+In the project folder, locate the database config file (e.g., config.php)
+
+Update it with your DB name, username (root), and password ("" if default)
+
+Run the Project
+
+Open a browser and visit:
+http://localhost/fresh-dairy-ecommerce/index.php
